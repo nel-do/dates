@@ -3,7 +3,7 @@
 		{
 			"location": "nsw",
 			"address": "106. Pittwater Road in dee why",
-			dates: [
+			"dates": [
 				{
 				"d1": "2022-12-08",
 				"d1_time1": "12 P M",
@@ -19,7 +19,7 @@
 		{
 			"location": "qld",
 			"address": "106. Pittwater Road in dee why",
-			dates: [
+			"dates": [
 				{
 				"d1": "2022-12-08",
 				"d1_time1": "12 P M",
@@ -35,7 +35,7 @@
 		{
 			"location": "vic",
 			"address": "106. Pittwater Road in dee why",
-			dates: [
+			"dates": [
 				{
 				"d1": "2022-12-08",
 				"d1_time1": "12 P M",
@@ -51,7 +51,7 @@
 		{
 			"location": "tas",
 			"address": "106. Pittwater Road in dee why",
-			dates: [
+			"dates": [
 				{
 				"d1": "2022-12-08",
 				"d1_time1": "12 P M",
