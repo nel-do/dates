@@ -1,28 +1,31 @@
 {
-   "states":[
-      {
-         "location":"nsw",
-         "address":"106. Pittwater Road in dee why",
-         "booking_1":"[\"2022-12-08\", \"12 P M\", \"3 P M\"]",
-         "booking_2":"[\"2022-12-09\", \"9 A M\", \"3 P M\"]"
-      },
-      {
-         "location":"qld",
-         "address":"106. Pittwater Road in dee why",
-         "booking_1":"[\"2022-12-08\", \"12 P M\", \"3 P M\"]",
-         "booking_2":"[\"2022-12-08\", \"9 A M\", \"12 P M\"]"
-      },
-      {
-         "location":"vic",
-         "address":"106. Pittwater Road in dee why",
-         "booking_1":"[\"2022-12-08\", \"12 P M\", \"3 P M\"]",
-         "booking_2":"[\"2022-12-08\", \"9 A M\", \"12 P M\"]"
-      },
-      {
-         "location":"tas",
-         "address":"106. Pittwater Road in dee why",
-         "booking_1":"[\"2022-12-08\", \"9 A M\", \"12 P M\",]",
-         "booking_2":"[\"2022-12-08\", \"9 A M\", \"3 P M\"]"
-      }
-   ]
+	"states": [
+		{
+			"location": "nsw",
+			"address": "106. Pittwater Road in dee why",
+			"booking_1": "['2022-12-08', '12 P M', '3 P M']",
+			"booking_2": "['2022-12-09', '9 A M', '3 P M']"
+		},
+  
+		{
+			"location": "qld",
+			"address": "106. Pittwater Road in dee why",
+			"booking_1": "['2022-12-08', '12 P M', '3 P M']",
+			"booking_2": "['2022-12-09', '9 A M', '12 P M']"
+		},
+  
+		{
+			"location": "vic",
+			"address": "106. Pittwater Road in dee why",
+			"booking_1": "['2022-12-08', '9 A M', '12 P M', '3 P M']",
+			"booking_2": "['2022-12-09', '9 A M', '12 P M', '3 P M']"
+		},
+  
+		{
+			"location": "tas",
+			"address": "106. Pittwater Road in dee why",
+			"booking_1": "['2022-12-08', '3 P M']",
+			"booking_2": "['2022-12-09', '9 A M', '12 P M', '3 P M']"
+		}
+	]
 }
