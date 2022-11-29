@@ -2,65 +2,113 @@
 	"states": [
 		{
 			"location": "nsw",
-			"address": "106. Pittwater Road in dee why",
+			"address": "BMW Sydney, 65 Craigend St, Rushcutters Bay NSW 2011",
 			"dates": [
 				{
 				"d1": "2022-12-08",
-				"d1_time1": "12 P M",
-				"d1_time2": "3 P M"
+				"d1_time1": "12 PM",
+				"d1_time2": "2 PM"
 				},
 				{
-				"d2": "2022-12-08",
-				"d2_time1": "12 P M",
-				"d2_time2": "3 P M"
+				"d2": "2022-12-11",
+				"d2_time1": "9 AM",
+				"d2_time2": "3 PM"
 				}]
 		},
+		
+		{
+			"location": "sa",
+			"address": "Adelaide BMW, 31/40 West Terrace, Adelaide SA 5000",
+			"dates": [
+				{
+				"d1": "2022-12-08",
+				"d1_time1": "9 AM",
+				"d1_time2": "11 AM"
+				},
+				{
+				"d2": "2022-12-09",
+				"d2_time1": "12 PM",
+				"d2_time2": "4 PM"
+				}]
+		},		
+		
+		{
+			"location": "wa",
+			"address": "BMW Perth, 17 Luisini Rd, Wangara WA 6065",
+			"dates": [
+				{
+				"d1": "2022-12-11",
+				"d1_time1": "9 AM",
+				"d1_time2": "3 PM"
+				},
+				{
+				"d2": "2022-12-15",
+				"d2_time1": "12 PM",
+				"d2_time2": "3 PM"
+				}]
+		},		
   
 		{
 			"location": "qld",
-			"address": "106. Pittwater Road in dee why",
+			"address": "BMW Brisbane, 800 Ann St, Fortitude Valley QLD 4006",
 			"dates": [
 				{
-				"d1": "2022-12-08",
-				"d1_time1": "12 P M",
-				"d1_time2": "3 P M"
+				"d1": "2022-12-07",
+				"d1_time1": "12 PM",
+				"d1_time2": "3 PM"
 				},
 				{
-				"d2": "2022-12-08",
-				"d2_time1": "12 P M",
-				"d2_time2": "3 P M"
+				"d2": "2022-12-11",
+				"d2_time1": "12 PM",
+				"d2_time2": "5 PM"
 				}]
 		},
   
 		{
 			"location": "vic",
-			"address": "106. Pittwater Road in dee why",
+			"address": "BMW Melbourne, 770 Lorimer St, Port Melbourne VIC 3207",
 			"dates": [
 				{
-				"d1": "2022-12-08",
-				"d1_time1": "12 P M",
-				"d1_time2": "3 P M"
+				"d1": "2022-12-12",
+				"d1_time1": "11 AM",
+				"d1_time2": "1 PM"
 				},
 				{
-				"d2": "2022-12-08",
-				"d2_time1": "12 P M",
-				"d2_time2": "3 P M"
+				"d2": "2022-12-15",
+				"d2_time1": "12 PM",
+				"d2_time2": "3 PM"
 				}]
 		},
+		
+		{
+			"location": "nt",
+			"address": "Darwin BMW, 364 Stuart Hwy, Winnellie NT 0820",
+			"dates": [
+				{
+				"d1": "2022-12-10",
+				"d1_time1": "9 A M",
+				"d1_time2": "12 P M"
+				},
+				{
+				"d2": "2022-12-16",
+				"d2_time1": "4 P M",
+				"d2_time2": "6 P M"
+				}]
+		},		
   
 		{
 			"location": "tas",
-			"address": "106. Pittwater Road in dee why",
+			"address": "BMW Hobart, 23 Barrack St, Hobart TAS 7000",
 			"dates": [
 				{
 				"d1": "2022-12-08",
-				"d1_time1": "12 P M",
-				"d1_time2": "3 P M"
+				"d1_time1": "12 PM",
+				"d1_time2": "3 PM"
 				},
 				{
-				"d2": "2022-12-08",
-				"d2_time1": "12 P M",
-				"d2_time2": "3 P M"
+				"d2": "2022-12-11",
+				"d2_time1": "1 PM",
+				"d2_time2": "6 PM"
 				}]
 		}
 	]
